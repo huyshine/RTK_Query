@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm A update 1",
+      "price": 100,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg",
+      "description": "Chi tiết sản phẩm A"
+    },
+    {
+      "name": "sdasdh",
+      "price": "12",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg",
+      "description": "sadsadsadasds",
+      "id": 2
+    },
+    {
+      "name": "new prodasd",
+      "price": "456",
+      "description": "sdasdasdsad",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg",
+      "id": 3
+    },
+    {
+      "name": "ádasdasdsa",
+      "price": "1212",
+      "description": "dsadasđá",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$AX2R5v8GCtCvON8Tu9fADudt4Z.bda3ApCwjAs0EI59MR9u3rSJY6",
+      "id": 1
+    },
+    {
+      "email": "user2@gmail.com",
+      "password": "$2a$10$nMw5v0SGecTdS.kTEj1TP.BBnoGD/y.9HiZXo.3DTWR1DKYGdiPa.",
+      "id": 2
+    }
+  ]
+}
